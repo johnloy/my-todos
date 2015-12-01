@@ -4,7 +4,6 @@ context.home=-work -errand -learn or +env
 context.work=+work or +env
 context.errands=+errand
 context.learn=+learn or /learn|research/
-context=home
 
 urgency.user.tag.beneficial.coefficient=5.0
 urgency.user.tag.alaina.coefficient=5.0
