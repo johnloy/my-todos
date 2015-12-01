@@ -6,5 +6,8 @@ context.errands=+errand
 context.learn=+learn or /learn|research/
 context=home
 
-urgency.user.tag.beneficial.coefficient=4.0
-urgency.user.tag.irritating.coefficient=5.0
+urgency.user.tag.beneficial.coefficient=5.0
+urgency.user.tag.alaina.coefficient=5.0
+urgency.user.tag.irritating.coefficient=4.0
+urgency.user.tag.contact.coefficient=2.0
+urgency.project.coefficient=0.0
