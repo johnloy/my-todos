@@ -1,6 +1,10 @@
 include ~/.secrets/todos/taskrc
+
 context.home=-work -errand -learn or +env
 context.work=+work or +env
 context.errands=+errand
 context.learn=+learn or /learn|research/
 context=home
+
+urgency.user.tag.beneficial.coefficient=4.0
+urgency.user.tag.irritating.coefficient=5.0
